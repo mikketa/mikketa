@@ -22,7 +22,7 @@
   <text class="key" x="32" y="186">terminal</text><text class="fg" x="160" y="186">alacritty</text>
   <text class="key" x="32" y="212">shell</text><text class="fg" x="160" y="212">zsh + starship</text>
   <text class="key" x="32" y="238">editor</text><text class="fg" x="160" y="238">neovim</text>
-  <text class="key" x="32" y="264">theme</text><text class="fg" x="160" y="264">gruvbox, évidemment</text>
+  <text class="key" x="32" y="264">theme</text><text class="fg" x="160" y="264">gruvbox, obviously</text>
   <text class="key" x="32" y="290">code</text><text class="fg" x="160" y="290">rust · java · typescript</text>
 
   <g transform="translate(32, 312)">
